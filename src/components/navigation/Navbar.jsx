@@ -8,13 +8,13 @@ export function Navbar () {
   <a href="#home">Home</a>
   <a href="#news">News</a>
   <div class="dropdown">
-    <button class="dropbtn">More 
+    <button class="dropbtn">Shop 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a target='_blank' href="https://www.amazon.com/stores/page/BA2B692D-8665-434C-9F1C-CBB20CAED180?channel=OfficialWeb">Pinkfong</a>
+      <a target='_blank' href="https://www.shopdisney.com/characters/disney/mickey-mouse/">Mickey Mouse</a>
+      <a target='_blank' href="https://www.shopdisney.com/movies-shows/disney/disney-junior/spidey-and-his-amazing-friends/">Spidey</a>
     </div>
   </div> 
 </div>
