@@ -22,9 +22,4 @@ export function Hero() {
         </div>
     );
 }
-        <HeroButton/>
-export function HeroButton() {
-    return (
-        <button>Learn More</button>
-    );
-}
+

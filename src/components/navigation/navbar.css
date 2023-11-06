@@ -11,6 +11,8 @@ font-family: 'Mulish', sans-serif;
 font-family: 'Pridi', serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Signika', sans-serif;
+background-clip: fixed;
+background-attachment: fixed;
 }
   
   .navbar {
@@ -136,4 +138,12 @@ font-family: 'Signika', sans-serif;
 
 p {
     justify-content: center;
+}
+
+h2 {
+    font-size: 26px;
+    font-style: italic;
+    text-shadow: -4px 3px 5px black;
+    color: #ff8ed6;
+    margin-inline: 30px;
 }

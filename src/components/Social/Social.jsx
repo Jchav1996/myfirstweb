@@ -5,10 +5,9 @@ export function Social() {
     return (
 
         <div className="SocialM">
-         <br></br>
+            <br></br>
             <h1>Let's Get Social</h1>
 
-            <br></br>
             <div className='icons'>
                 <a target='_blank' href='https://facebook.com/pinkfong.official'>
                     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
@@ -28,7 +27,6 @@ export function Social() {
                         </svg>
                     </a>
                     </div>
-                    <br></br>
                     <br></br>
         </div>
     );
