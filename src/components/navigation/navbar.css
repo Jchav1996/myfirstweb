@@ -1,19 +1,19 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     height: 100%;
-    margin: auto;
+    margin: 0;
     background-image: url(https://media.istockphoto.com/id/664688906/vector/1611-52-eps.jpg?s=612x612&w=0&k=20&c=fotIQpwmUD4YzP5TnLUzkys8tE0ibEpWZarKYw5wfMA=);
     font-family: 'Inter', sans-serif;
-font-family: 'Libre Baskerville', serif;
-font-family: 'Merriweather', serif;
-font-family: 'Mooli', sans-serif;
-font-family: 'Mulish', sans-serif;
-font-family: 'Pridi', serif;
-font-family: 'Roboto', sans-serif;
-font-family: 'Signika', sans-serif;
-background-clip: fixed;
-background-attachment: fixed;
-}
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Pridi', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Signika', sans-serif;
+    background-clip: fixed;
+    background-attachment: fixed;
+    }
   
   .navbar {
     overflow: hidden;
