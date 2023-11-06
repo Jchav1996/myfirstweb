@@ -6,7 +6,7 @@ export function Navbar () {
         <div class="navbar">
         <h2> KidzWorlz</h2>
   <a href="#home">Home</a>
-  <a href="#news">News</a>
+  <a href="#smLink">Social</a>
   <div class="dropdown">
     <button class="dropbtn">Shop 
       <i class="fa fa-caret-down"></i>
