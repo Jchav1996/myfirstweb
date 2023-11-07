@@ -1,5 +1,5 @@
-import { Live } from "./components/Live/live"
 import { Social } from "./components/Social/Social"
+import { Live } from "./components/Live/live"
 import { Hero } from "./components/hero/Hero"
 import { Navbar } from "./components/navigation/Navbar"
 
