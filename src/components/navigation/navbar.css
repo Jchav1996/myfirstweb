@@ -146,3 +146,7 @@ h2 {
     color: #ff8ed6;
     margin-inline: 30px;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
